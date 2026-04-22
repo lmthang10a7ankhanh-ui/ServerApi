@@ -23,7 +23,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // app.UseHttpsRedirection();
-app.MapGet("/", () => "ASP.NET Backend is running moi them!");
+app.MapGet("/", () => "ASP.NET Backend is running moi them cicd!");
 
 
 
